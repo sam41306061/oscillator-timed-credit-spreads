@@ -21,6 +21,9 @@ docs/RAG_CONTEXT.md
 .vscode/
 .idea/
 
+# Repo metadata (CI, skills, templates)
+.github/
+
 # OS
 .DS_Store
 Thumbs.db
